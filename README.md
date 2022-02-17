@@ -1,8 +1,6 @@
 # Practica3PAT
 Práctica 3 de PAT, desarrollo web con CSS y Bootstrap
 
-Práctica 3 de PAT, desarrollo web con CSS y Bootstrap
-
 Utilizando un tema de Bootstrap he desarrollado una web con temática de la empresa española Inditex. 
 Podemos observar tres página: 
 -Index: Página principal. 
